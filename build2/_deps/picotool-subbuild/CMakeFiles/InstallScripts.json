@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"C:/pico/pico_mqtt/build2/_deps/picotool-subbuild/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

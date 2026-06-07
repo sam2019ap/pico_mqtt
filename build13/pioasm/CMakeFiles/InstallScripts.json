@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"C:/pico/pico_mqtt/build13/pioasm/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
