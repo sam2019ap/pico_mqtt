@@ -1,0 +1,7 @@
+C:/pico/pico_mqtt/build13/pioasm/CMakeFiles/pioasm.dir
+C:/pico/pico_mqtt/build13/pioasm/CMakeFiles/edit_cache.dir
+C:/pico/pico_mqtt/build13/pioasm/CMakeFiles/rebuild_cache.dir
+C:/pico/pico_mqtt/build13/pioasm/CMakeFiles/list_install_components.dir
+C:/pico/pico_mqtt/build13/pioasm/CMakeFiles/install.dir
+C:/pico/pico_mqtt/build13/pioasm/CMakeFiles/install/local.dir
+C:/pico/pico_mqtt/build13/pioasm/CMakeFiles/install/strip.dir

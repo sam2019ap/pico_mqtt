@@ -1,0 +1,5 @@
+C:/pico/pico_mqtt/build13/pioasm-install/pioasm/pioasm.exe
+C:/pico/pico_mqtt/build13/pioasm-install/pioasm/pioasmTargets.cmake
+C:/pico/pico_mqtt/build13/pioasm-install/pioasm/pioasmTargets-release.cmake
+C:/pico/pico_mqtt/build13/pioasm-install/pioasm/pioasmConfig.cmake
+C:/pico/pico_mqtt/build13/pioasm-install/pioasm/pioasmConfigVersion.cmake
